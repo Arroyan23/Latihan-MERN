@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Favian Rasyad",
+    "hobby": "Membunuh Dirinya Sendiri",
+    "kasus": [
+      "Dugaan penjualan obat obatan terlarang",
+      "Dugaan percobaan pembunuhan"
+    ],
+    "tags": "favian melakukan bunuh diri",
+    "isFact": true
+  },
+  {
+    "nama": "Muhammad Azzam Wartaputra",
+    "hobby": "Membunuh Favian Rasyad",
+    "kasus": [
+      "Dugaan kasus melecehkan favian",
+      "Penggelapan Uang dengan Mazda"
+    ],
+    "tags": "Azzam melakukan hal yang mengejutkan dunia",
+    "isFact": true
+  },
+  {
+    "nama": "Sammy Muhammad",
+    "hobby": "Melakukan senam pilates",
+    "kasus": [
+      "Dugaan kasus penggelapann uang",
+      "Dugaan kasus kekerasan pada favian rasyad"
+    ],
+    "tags": "sammy yang di luar nalar",
+    "isFact": false
+  }
+]
